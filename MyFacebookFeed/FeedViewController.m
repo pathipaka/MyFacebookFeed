@@ -106,7 +106,7 @@
                           delay:0.0
                         options:(animationCurve << 16)
                      animations:^{
-                         self.commentImageView.frame = CGRectMake(0, self.view.frame.size.height - self.commentImageView.frame.size.height, self.commentImageView.frame.size.width, self.commentImageView.frame.size.height);
+                         self.commentImageView.frame = CGRectMake(0, self.view.frame.size.height - self.commentImageView.frame.size.height - 46, self.commentImageView.frame.size.width, self.commentImageView.frame.size.height);
                          
                      }
                      completion:nil];
