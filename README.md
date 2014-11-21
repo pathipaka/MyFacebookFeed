@@ -6,8 +6,6 @@ Week 1 Homework
 
 ![alt tag](MyFacebookFeedDemo.gif)
 
-Time spent - 6hrs
-
 Completed Tasks - 
 Add a container view and modify properties: backgroundColor, cornerRadius, font, textColor, shadowOffset.
 Add buttons with different images for default and highlighted.
